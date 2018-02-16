@@ -141,6 +141,13 @@ h1, h2, h3, h4, h5, h6, p {
 	height: 55px;
 	line-height: 55px;
 	padding: 0 30px;
+	border: 1px solid #13e28d;
+
+	&:hover {
+		color: #13e28d;
+		background: #fff;
+	}
+
 }
 .ba-sale {
 	color:  #fedd3f;

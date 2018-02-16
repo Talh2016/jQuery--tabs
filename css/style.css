@@ -807,7 +807,11 @@ h1, h2, h3, h4, h5, h6, p {
   background-color: #13e28d;
   height: 55px;
   line-height: 55px;
-  padding: 0 30px; }
+  padding: 0 30px;
+  border: 1px solid #13e28d; }
+  .ba-button:hover {
+    color: #13e28d;
+    background: #fff; }
 
 .ba-sale {
   color: #fedd3f;
